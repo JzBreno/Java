@@ -1,4 +1,33 @@
+como funciona um programa java
 package
     class
         methods
             statements
+
+Variaveis
+
+int minhaIdade = 28;
+int salarioMensal = 20_000 (20k)
+int idadeMilisegundos = 188400000000L (long)
+
+(tipos primitivos)
+
+type       Bytes        Range
+byte       1            [-128, 127]
+short      2            [-32k, 32k]
+int        4            [-2B, 2B]
+long       8
+float      4
+double     8
+char       2            A/B/C...
+boolean    1            true/false
+
+(tipos de referencia)
+
+String firstName = "Jose" - tem metodos nele
+
+
+comando de leitura:
+
+input():
+Scanner idadeScanenr =  new Scanner(System.in);
