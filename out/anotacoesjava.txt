@@ -1,0 +1,11 @@
+java roda em cima de um jvm
+edições do java:
+Java SE - onde os codigos acontecem
+Java EE - é utilizado pelas grandes empresas, versao que trabalha em cima de um servidor
+Java ME - utilizado em dispositivos menores, celulares]
+Java FX - utilizado para desktop
+
+Vamos utilizar a (Java SE)
+Ciclo de Vida JAVA:
+IDE(onde programamos) -> JDK(iterpretador) -> JRE(Onde vira programa) -> JVM(Tradutor) -> windows, mac, linux (bytecode) - (Programa rodando)
+
